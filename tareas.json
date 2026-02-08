@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "tarea": "Hacer el reporte",
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "tarea": "Grabar video",
+    "estado": "completado"
+  },
+  {
+    "id": 3,
+    "tarea": "Subir a GitHub",
+    "estado": "pendiente"
+  }
+]
